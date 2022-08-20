@@ -1,0 +1,1 @@
+## This is the 2nd Course in the IBM Data Science Certification. It covers various tools in Watson Studio, like Jupyter Notebook, IBM Watson Knowledge Catalog, Data Refinery, SPSS Modeler and Statistics, AutoAI and OpenScale.
